@@ -1,0 +1,13 @@
+dn: uid=super-ldap,ou=users,dc=kimai,dc=org
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: super-ldap
+sn: LDAP-SuperAdmin
+givenName: LDAP-Teamlead Example
+cn: super-ldap
+displayName: LDAP User (Super-Admin)
+mail: super-ldap@example.com
+userPassword: {SSHA}+/Ir5pqpe09B07Xz8IT5AS+swJ5s29QS
+

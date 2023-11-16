@@ -1,0 +1,5 @@
+dn: cn=admin,ou=groups,dc=kimai,dc=org
+objectClass: top
+objectClass: groupOfNames
+cn: Admins
+member: uid=admin-ldap,ou=users,dc=kimai,dc=org

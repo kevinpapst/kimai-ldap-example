@@ -1,0 +1,13 @@
+dn: uid=admin-ldap,ou=users,dc=kimai,dc=org
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: admin-ldap
+sn: LDAP-Administrator
+givenName: LDAP-Admin Example
+cn: admin-ldap
+displayName: LDAP User (Administrator)
+mail: admin-ldap@example.com
+userPassword: {SSHA}+/Ir5pqpe09B07Xz8IT5AS+swJ5s29QS
+

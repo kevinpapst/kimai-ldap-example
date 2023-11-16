@@ -1,0 +1,6 @@
+dn:dc=kimai,dc=org
+objectClass:dcObject
+objectClass:organizationalUnit
+dc:kimai
+ou:KIMAI
+

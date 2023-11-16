@@ -1,0 +1,4 @@
+dn: ou=users,dc=kimai,dc=org
+objectClass: organizationalUnit
+ou: users
+

@@ -1,0 +1,13 @@
+dn: uid=teamlead-ldap,ou=users,dc=kimai,dc=org
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: teamlead-ldap
+sn: LDAP-Teamlead
+givenName: LDAP-Teamlead Example
+cn: teamlead-ldap
+displayName: LDAP User (Teamlead)
+mail: teamlead-ldap@example.com
+userPassword: {SSHA}+/Ir5pqpe09B07Xz8IT5AS+swJ5s29QS
+

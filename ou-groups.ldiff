@@ -1,0 +1,3 @@
+dn: ou=groups,dc=kimai,dc=org
+objectClass: organizationalUnit
+ou: groups
